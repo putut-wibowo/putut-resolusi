@@ -1,4 +1,8 @@
 python
+  -pandas
+  -matplotlib
+  -seaborn
 php
 javascript
 html
+css
