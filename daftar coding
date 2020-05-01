@@ -1,4 +1,6 @@
 python
+  -pandas
+  -matplotlib
+  -sympy
 php
-javascript
 html
